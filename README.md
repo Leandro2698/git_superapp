@@ -1,2 +1,2 @@
-# La landing page de Super App
+# La landing page de Super App fait avant formation
 Ma première page web...
